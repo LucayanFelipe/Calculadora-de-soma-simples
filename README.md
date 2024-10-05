@@ -1,2 +1,2 @@
 # Calculadora-de-soma-simples
-Web
+# Site para somar dois valores
